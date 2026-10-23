@@ -2,6 +2,8 @@
 
 Standalone companion. The headset panel and Frametop come later. This version opens a VRM and shows it.
 
+On the Frame it is installed at `/run/media/steamos/SD512/spatial-company`.
+
 ## Now
 
 - `launcher.gd` is the window. Open a model, or pass one on the command line.
